@@ -20,5 +20,5 @@ I will now explain how to use the program. It is pretty straight forward, but it
 
 * The display button displays the order such as the order number, flower number, flower name, quantity, price, VAT, total, and payment method in child form. 
 
-## What can be done to improve the code
+### What can be done to improve the code
 I can use sql database to store the orders of the customers, display all the order information that the customer ordered in a list rather than using labls, I could also use pictures to display what kind of flowers are being sold, and I can set the price of the flowers rather than asking the user for the price.
