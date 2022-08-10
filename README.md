@@ -2,10 +2,10 @@
 * **Language:** C#
 * **GUI/IDE:** Visual Basic
 
-This code/program was my final CREATIVE_I_DO assignment for the CMPG 122. I created this code to allow anyone to order flowers from a florist, they can either have the flowers delivered to them or they can pick it up.They can also decide to either pay my credit card or EFT. It retrospect it is just another program that can be used in a database to store customer's orders that they will either pick up or have it delivered to them. You may ask why this code/program, the reason is that it gave a bit more confidence in my programming skill, I like to be able to see what I am trying to achieve for example, creating a program to help people book for blood donation by giving the relevant information such as weight, age, height, blood type or to help them understand which blood types can be receive and/or donate blood to other types, provided they know their blood type. Plus I like front-end development of programs it allows creativity.
+This code/program was my final CREATIVE_I_DO assignment for the CMPG 122. I created this code to allow anyone to order flowers from a florist, they can either have the flowers delivered to them or they can pick it up.They can also decide to either pay my credit card or EFT. It retrospect it is just another program that can be used in a database to store customer's orders that they will either pick up or have it delivered to them. You may ask why this code/program, the reason is that it gave a bit more confidence in my programming skill, I like to be able to see what I am trying to achieve for example, creating a program to help people book for blood donation by giving the relevant information such as weight, age, height, blood type or to help them understand which blood types can be receive and/or donate blood to other types, provided they know their blood type. Plus I like front-end development of programs, it allows creativity and it is easier to visualise what the code is supposed to do.
 
 ## What does it solve?
-Nothing really, it just a code to capture users' input from a text bot and combo box, add them to a list to be either read, write or append. Like i said nothing special about it.
+Nothing really, it just a code to capture users' input from a text box and combo box, add them to a list to be either read, write or append. Like i said nothing special about it.
 
 ## How to use the program
 I will now explain how to use the program. It is pretty straight forward, but it would not be a README if I did not explain how this code/program works.
