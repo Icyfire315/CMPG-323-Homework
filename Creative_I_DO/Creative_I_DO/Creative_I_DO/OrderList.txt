@@ -1,0 +1,11 @@
+Order	No.            	Name                          	Total               	Qty       	P/D       	Payment             	Address   
+994	1              	African Daisy                 	R22,50              	12        	Delivery  	Credit Card         	12 Pearson Street
+706	2              	Baby's Breath                 	R20,27              	85        	Pick up   	Credit Card         	 -        
+284	9              	SnapDragons                   	R43,50              	100       	Pick up   	Credit Card         	 -        
+926	7              	Hisbiscus                     	R244,46             	159       	Pick up   	EFT                 	 -        
+485	3              	Desert Rose                   	R984,80             	581       	Pick up   	EFT                 	 -        
+123	8              	Red Coranation                	R69,97              	78        	Pick up   	EFT                 	 -        
+667	9              	SnapDragons              	R22,54              	12        	Pick up   	Credit Card         	 -    
+596	8              	Red Coranation           	R4,64               	12        	Delivery  	EFT                 	123 VaalView AH
+290	4              	English BlueBell         	R46,60              	12        	Pick up   	Credit Card         	 -        
+965	5              	Forget-Me-Nots           	R1 343,70           	100       	Pick up   	EFT                 	 -        
