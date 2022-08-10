@@ -1,4 +1,4 @@
-# CMPG 323 Homework
+# Production
 * **Name of Program:** Budding Florist
 * **Initial Name of Program:** CREATIVE_I_DO
 * **Language:** C#
@@ -12,13 +12,15 @@ Nothing really, it just a code to capture users' input from a text box and combo
 ## How to use the program
 I will now explain how to use the program. It is pretty straight forward, but it would not be a README if I did not explain how this code/program works.
 
-* When a person makes an order all they have to do is input the relative information, in the text box and combo box, then click on the add button. Once they click on the add button, the order they wanted will be added to a list, similar to add to cart. Once they have ordered what they have wanted the click on the write button to save their order to a list.
+* When a person makes an order all they have to do is input the relative information, in the text box and combo box, then click on the add button. Once they click on the add button, the order they wanted will be added to a list, similar to add to cart. Once they have ordered what they have wanted the click on the write button which will prompt a save dialog box to allow the user to save the list using any name and to save it at any location on the local device.
 
 * The remove button is used to remove an item from the list, if a user wants to remove a order all they have to do is to select the item theu wish to remove then click on the remove button and the order will be deleted from the list. 
 
 * The clear button is used to clear the input from the combo box and text box, and the clear all button clears both the user's input and the list.
 
-* If they want to see the list they can click on the read button, that opens the file dialog box, then select the list they wish to see. The user can also append to the list by added a new project then they click on the append button that adds a new order to the list. 
+* If they want to see the list they can click on the read button, that opens the file dialog box, then select the list they wish to see. The user can also append to the list by added a new project then they click on the append button that adds a new order to the list.
+
+* The close button prompts a dialog button to ask the user if they are sure they want to close the program, if the user selects yes the progam will be terminated.
 
 * The display button displays the order such as the order number, flower number, flower name, quantity, price, VAT, total, and payment method in child form. 
 
